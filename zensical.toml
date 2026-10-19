@@ -1,0 +1,9 @@
+[project]
+site_name = "Galgo AI Handbook"
+site_description = "A practical AI learning and practice resource for Galgo staff."
+docs_dir = "docs"
+site_dir = "site"
+nav = [{ "Start here" = "index.md" }]
+
+[project.theme]
+language = "en"

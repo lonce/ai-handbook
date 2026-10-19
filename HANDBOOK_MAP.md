@@ -57,6 +57,8 @@ For everyone:
 
 ## Proposed sections and topics
 
+Current site entry point: [`docs/index.md`](docs/index.md), an initial orientation draft for all staff (explanation). The reader paths below remain planned material.
+
 ### 1. Start here: purpose and orientation
 
 - Why Galgo is assembling an AI handbook.

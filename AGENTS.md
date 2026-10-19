@@ -91,5 +91,5 @@ Summarize the files changed, important sources used, assumptions made, and quest
 
 ## Publication
 
-Develop the handbook as linked Markdown files in Git, with a clear index and glossary. Use Zensical as the site builder, with `docs/` as the publication source and `site/` as the generated HTML output. Keep `working/` outside the publication source. Zensical is installed in the local `.venv/`; the project build configuration and dependency manifest still need to be established. The generated website may be published on a Galgo-maintained server. Keep the Markdown source usable and organized even if the publishing setup changes.
+Develop the handbook as linked Markdown files in Git, with a clear index and glossary. Use Zensical as the site builder, with `docs/` as the publication source and `site/` as the generated HTML output. Keep `working/` outside the publication source. Zensical is installed in the local `.venv/`; `zensical.toml` configures the build and `requirements.txt` pins the builder version. See `README.md` for setup, preview, and build commands. The generated website may be published on a Galgo-maintained server. Keep the Markdown source usable and organized even if the publishing setup changes.
 
